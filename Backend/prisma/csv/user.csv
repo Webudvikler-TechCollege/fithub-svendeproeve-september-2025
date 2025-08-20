@@ -1,0 +1,2 @@
+"id","firstname","lastname","email","password","description","image","refreshToken","isActive"
+1,"Admin","Adminsen","info@webudvikler.dk","password","User Description","user.png","1234",1
